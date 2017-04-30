@@ -2,6 +2,9 @@ section {
 	width: 800px;
 	margin: 100px auto;
 }
+
+/**CHANGE FONT COLOR of HEADER**/
+
 section h1,
 section p {
 	text-align: center;
